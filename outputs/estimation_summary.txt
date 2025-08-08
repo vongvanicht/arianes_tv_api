@@ -1,0 +1,15 @@
+MCMC Calibration Results
+========================
+
+Iterations: 1000
+Acceptance rate: 4.00%
+Final likelihood: -15589.14
+Likelihood improvement: 1674.22
+
+Total predicted trips TO: 112
+Total observed trips TO: 1141
+Prediction error TO: 90.1%
+
+Total predicted trips FROM: 112
+Total observed trips FROM: 1083
+Prediction error FROM: 89.6%
